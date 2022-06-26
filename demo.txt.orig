@@ -1,4 +1,7 @@
 Adding demo.txt file to git
 Changed in Master
+<<<<<<< HEAD
 Pulled from master and changed in DEMO1
+=======
 Pulled latest master and changed on DEMO2
+>>>>>>> DEMO2
